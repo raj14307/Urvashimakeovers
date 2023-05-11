@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+		
+	background-color:black;
+	
+	}
+.cont{
+        min-height: 30vh;
+        background-color: transparent;
+        color: black;
+        display: flex;
+        margin: 0 auto;
+       max-width: 40%;
+        border-radius: 16px;
+        padding: 70px;
+        background-image: url("images/details.jpg");
+    
+    }
+    
+   .card:hover{
+	transition-duration: 700ms;
+	transform: scale(0.9);
+	  
+    }
+    
+    .card img {
+    width:350px;
+    height:470px;
+    }

@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+body{
+		
+	background-color:antiquewhite;
+	
+	}
+	
+	*{
+		margin:0;
+		padding: 0;	
+	}
+
+    .container{
+        min-height: 58vh;
+        background-color: black;
+        color: white;
+        display: inherit;
+        margin: 12px;
+        width: 109vh;
+        padding: 12px;
+        border-radius:27px;
+        background-image: url("images/details.jpg");        
+    }
+   
+    
+ 

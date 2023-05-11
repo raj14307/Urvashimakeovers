@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body{
+		
+	background-color:antiquewhite;
+	
+	}
+	
+	*{
+		margin:0;
+		padding: 0;	
+	}
+	.container{
+        min-height: 75vh;
+        background-color: black;
+        color: white;
+        display: flex;
+        margin: 23px auto;
+        width: 70%;
+        border-radius: 12px;
+        padding: 30px;
+    
+    }
+ 

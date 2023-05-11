@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+section{
+	min-height: auto;
+	display: inherit;
+	margin: auto;
+	width: auto;
+    align-items: center;
+	border-radius: 212px;
+	padding: 64px;
+	background-image: url(images/backrdimg.jpg);
+}
+section:hover{
+
+    transition-duration: 0.6s;
+	transform: scale(0.9);
+	transition-property: all;
+
+}
+section  ul {
+
+    align-items: flex-start;
+    color: black;
+    transition-duration: 0.6s;
+
+
+
+}
+body{
+
+	background-color: black;
+    color: white;
+    overflow: inherit;
+
+
+}
+
+.book{
+	color: black;
+	background-color:white;
+	
+}
